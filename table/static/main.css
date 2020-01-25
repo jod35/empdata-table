@@ -1,0 +1,49 @@
+body{
+    
+    color: dodgerblue;
+}
+header{
+    background-color: dodgerblue;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.user{
+    color: dodgerblue;
+}
+.form{
+ border: 1px dodgerblue solid;
+ background-color: rgba(255, 255, 255, 0.178);
+ padding: 20px;
+ width: 40%;
+ margin:auto;
+ color: dodgerblue;
+ text-align: center;
+}
+
+header a{
+    color: white;
+}
+.options a{
+    padding: 20px;
+    margin-top: 25px;
+}
+.container{
+min-height: 500px;
+padding: 20px;
+}
+
+thead{
+    background-color: dodgerblue;
+    color: white;
+}
+.footer{
+    background-color: dodgerblue;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+table{
+    color: dodgerblue;
+}

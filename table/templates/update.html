@@ -1,0 +1,7 @@
+{% extends 'layout.html' %}
+{% block body %}
+   <form action="/update/{{user.id}}" method="post">
+       {% include 'includes/_update.html' %}
+   </form>
+{% endblock body %}
+    
